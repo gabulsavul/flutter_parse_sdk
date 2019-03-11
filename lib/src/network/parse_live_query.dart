@@ -18,7 +18,7 @@ class LiveQuery {
       "op": "subscribe",
       "requestId": 1,
       "query": {
-        "className": null,
+        "className": "",
         "where": {},
       }
     };
